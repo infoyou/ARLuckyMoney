@@ -5,5 +5,5 @@
 2，ok
 ![Image text](https://github.com/infoyou/ARLuckyMoney/raw/master/image/2.PNG)
 
-3，每天有次数限制的
+3，每天领取有次数限制的
 ![Image text](https://github.com/infoyou/ARLuckyMoney/raw/master/image/3.PNG)
