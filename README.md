@@ -2,8 +2,8 @@
 ### 1.部署 html 
 
 mac 下面
-将 ar.html 放入 /Library/WebServer/Documents/
-打开 terminal 
+####将 ar.html 放入 /Library/WebServer/Documents/
+####打开 terminal 
 输入 sudo apachectl start
 
 
