@@ -2,9 +2,9 @@
 ### 1.部署 html 
 
 mac 下面
-####将 ar.html 放入 /Library/WebServer/Documents/
-####打开 terminal 
-输入 sudo apachectl start
+#### 将 ar.html 放入 /Library/WebServer/Documents/
+打开 terminal 
+#### 输入 sudo apachectl start
 
 
 ### 2.选择图片上传，通过上下键盘 调整
